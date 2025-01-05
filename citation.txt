@@ -1,0 +1,9 @@
+@article{REPO079,
+    author = "Li, Feng and Chai, Yuqi and Yang, Huan and Hu, Pengfei and Duan, Lingjie",
+    journal = "IEEE/ACM Transactions on Networking",
+    number = "3",
+    pages = "2406-2421",
+    title = "{Incentivizing Massive Unknown Workers for Budget-Limited Crowdsensing: From Off-Line and On-Line Perspectives}",
+    volume = "32",
+    year = "2024"
+}
